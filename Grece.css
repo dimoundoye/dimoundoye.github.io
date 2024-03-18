@@ -52,7 +52,7 @@ body{
     #content{
         width: 100%;
         display: inline-block;
-        background-image: url(../images/bodygrece.jpeg);
+        background-image: url(bodygrece.jpeg);
         background-size: cover;
         padding-bottom: 20px;
     }
