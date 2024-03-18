@@ -52,7 +52,7 @@ body{
     #content{
         width: 100%;
         display: inline-block;
-        background-image: url(../images/bodyaustra.jpeg);
+        background-image: url(bodyaustra.jpeg);
         background-size: cover;
         padding-bottom: 20px;
     }
